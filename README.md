@@ -213,7 +213,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Yulian**
+**Nailuy**
 - Portfolio: [my-portfolio-2025-lake.vercel.app](https://my-portfolio-2025-lake.vercel.app/)
 - Twitter: [@yulianvakh](https://x.com/yulianvakh)
 - GitHub: [@Nailuy](https://github.com/Nailuy)
