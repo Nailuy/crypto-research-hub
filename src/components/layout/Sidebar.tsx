@@ -56,7 +56,7 @@ export default function Sidebar() {
                 <div className="user-profile">
                     <div className="user-avatar">Y</div>
                     <div className="user-info">
-                        <p className="user-name">Yulian</p>
+                        <p className="user-name">Nailuy</p>
                         <p className="user-role">Researcher</p>
                     </div>
                 </div>
